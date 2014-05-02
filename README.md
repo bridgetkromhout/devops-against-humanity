@@ -11,7 +11,7 @@ The google doc is here:
 
 [Shared Google Doc](https://docs.google.com/spreadsheets/d/1OKgmjNz8l7skYfrbrOtYT6QmSf_y-BzZOWJWZC3tbUQ/edit#gid=0)
 
-Add your awesome ideas to the shared doc. Then copy it, edit it to your liking, sorting and removing anything you don't like. I ended up going with a standard of 4 underscores for each line, since otherwise they can take up too much room on the cards.
+Add your awesome ideas to the shared doc. Then copy it, edit it to your liking, sorting and removing anything you don't like. I ended up going with a standard of five underscores for each blank, since otherwise they can take up too much room on the cards.
 
 I wouldn't be sad if someone wanted to merge in my cleanup/adds/changes to the shared doc, although I don't have time right now. This is the actual doc I used for generating the PDFs in this repo:
 
