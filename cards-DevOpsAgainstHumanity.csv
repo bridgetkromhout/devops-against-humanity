@@ -1,0 +1,501 @@
+#devopsagainsthumanity,http://devopsagainsthumanity.com
+White Cards (noun or gerund - single word or phrase),Black Cards (direct question or fill-in-the-blank statement with one blank or two) (5 underscores = blank)
+Angular js,Googelure.js
+A former MENSA member,140 characters is just enough to explain _____.
+Being acquired by Oracle,_____ all the way down.
+Brogrammers,_____ as a service.
+Command-line magic,_____ dooms any project to epic failure.
+Continuous integration,"_____ is a feature, not a bug."
+Copypasta,_____ is for closers.
+The Cult of Mac,_____ is weaponized privilege.
+Degraded performance in some AWS availability zones,_____ is webscale.
+Developers,_____ or it didn't happen.
+DevOps,_____ with one weird trick.
+Eating sushi with Andrew Clay Shafer,"_____, as one does."
+fuckedcompany.com,"_____, for some values of _____."
+Git,Ask Me Anything about __________.
+Golang,Called on account of __________.
+Growth hacking,Disrupting the established players in __________ via __________.
+Hacker News,Doge __________.
+Larry Ellison,Employees must __________ before returning to work.
+Leaky abstractions,Enterprise __________ in the cloud.
+LinkedIn,Enterprise-ready __________.
+Meritocracy,Epic yak-shave caused by __________.
+MongoDB,Facebook has acquired __________ for $10b and __________.
+Node.js,Free as in __________.
+NPM,Glitter-bombed with __________.
+Pareto Inefficient Nash Equilibriums,"Hi, I'm Troy McClure. You may remember me from such commit messages as __________ and __________."
+Posting on Etsy's codeascraft blog,How even is __________ formed?
+Python,I can haz __________.
+Python datetime module,I don't own any jeans skinny enough to wear to a __________ meetup.
+Rebasing the entire fucking repo,I saw the best minds of my generation __________.
+RecruiterFail,"If __________ is the answer, you are asking the wrong question."
+Ruby,"If you're __________, you're gonna have a bad time."
+Running out of IPv4 addresses,Nobody ever got fired for buying __________.
+Sysadmins,Running Windows in production leads to __________.
+The Stanford of Canada,"The Internet is for cat memes and __________,"
+Thought leadership,"""Our release schedule doesn't have time for _____."""
+Twitter,The Internet of Things will be controlled by __________.
+Unicode errors,The only thing necessary for evil to triumph is __________.
+Unknown source in your stack trace,Uber is on surge pricing because of __________.
+Waiting for console.aws.amazon.com,WARN: __________ has been deprecated.
+Women in tech,Will merge pull requests for __________.
+Yet another package manager,Zero-day __________.
+Our Release Engineer,Time to schedule the postmortem for _____________ .
+DevOps Days,It worked on my ___________.
+Bullshit.io,"___________, the only thing worse than recruiting spam."
+OpenSSL,___________ - the idiots guide to ___________ and ___________.
+Heartbleed,Put some ______ on it
+The NSA,Wrap it with the _________ duct tape
+O'Reilly,But Google is using _________ so we should too!
+Edward Snowden,____________ is the new __________.
+Digital Ocean,Etsy says we should __________ everything.
+Magic Spray,xkcd.com just made a hilarious comic making fun of ___________.
+Web scale,This isn't going to be all unicorns and _________.
+Functional programming,Apple just patented ___________________________.
+Stack trace generator,When I was a kid we didn't have __________.
+Patent,Root cause of the outage? ________________.
+NoSQL,"The status console is green, but I can't access _________________."
+Windows XP,No route to host: ____________.
+Perl 6,DevOps: Now with 100% more ________________!
+COTS Shareware,Main benefits of automation: ____________________ and ___________________.
+2400 baud modem,Chef convergence failed due to _________________.
+A squirrel with a taste for fiber,...and then there was the time I found ___________ on the root partition.
+Zombie processes,We run production on _____________ and _________________.
+CAP Theorem,Management said it's OK to deploy _________________ at 5pm on Friday 
+Snowflake server,Did you know that we have ______________ on pager rotation?
+A Cisco router with a flaky chip,"""There was no good solution for _______________, so we built our own."""
+NullPointerException: null,Amazon built a datacenter on the moon to lessen the risk of _________________ causing problems.
+Apache 1.2 running as root,"In order to improve security, we're upgrading to _______________."
+More buzzwords than you can shake a scrum at,The two pillars of our Continuous Deployment pipeline are ___________________ and ___________________.
+A GitHub Outage,I got paged at 3am because of _____________________.
+VisualBasic DLLs,The most stable part of our infrastructure? _____________________
+A JAR full of spaghetti,"When I told Jez Humble about our ______________, he actually cried."
+An epic caffeine bender,"When I write a book about my experiences, it'll be called ""________________, the good parts"""
+A WSDL from 2003,Restoring from backups failed due to _________________________.
+The Sales & Marketing department,My two most indispensable tools are ______________ and _______________.
+Business logic in PowerPoint slides,The production datacenter burned down because of __________________.
+/var/log symlinked to /dev/null,"It turns out that the button labeled ""Don't Push"" actually does ___________."
+Hypervisors running hypervisors running hypervisors,You should think of your servers like ________ and not like _________.
+An angry badger with an electromagnet on its back,I find Java to be way too ________.
+A shared root password,It's like trying to herd ______.
+Private keys in /var/www,I ended up having to buy a replacement _______ on eBay.
+Parsing HTML with regex,_______ is more memory than anyone will ever need on a computer.
+"A 3.5"" floppy disk",__________ Driven Development.
+An untested restore process,RIAA is suing me for downloading ________.
+A cron job that reboots the server every 5 minutes,Security? We've got that! We use ______________.
+Apache Zookeeper on a 286,I came up with an awesome regex that converts ____________ to _______________.
+Sadness as a Service,"When I hooked the 3D printer up to the Internet, it accidentally created _______________."
+Cloud-based business strategy,My next blog post will be about how we used _______________ to create _______________.
+Cloud 2.0,"So, I was using Wireshark to check network traffic... Did you know we have ________________ in production?"
+The next Y2K,My eyes started bleeding when I opened the editor and saw _______________.
+"An army of chaos monkeys, all carrying flamethrowers",I think maybe I'll leave ______________ off my resumé.
+A CORBA service written in Ada which communicates using JSONx,We don't need ______________ - we have _______________ !
+A home-rolled systemd replacement,Management just told me I need to get certified in ____________________.
+A custom kernel with Frontpage Extensions installed,"Our app is like ___________, but for ________________."
+A mobile web 2.0 RIA,"Marketing says we're leaders in the _______________ space, but I think it's more accurate to say we specialize in ___________."
+Agony-Driven Development,Our greatest achievement in the last year is ________________.
+Catastrophic Failure as a Service,"If we make this deadline, Management has promised us ___________________."
+"10,000 Nagios alerts per second",Sweet! I just found a Puppet module for ______________!
+A global write lock,"Last week, I created a Chef recipe for ____________; this week, it's an entire cookbook for ____________. Automation FTW!"
+75-tier architecture,We really need to open-source our _________________.
+Hand-crafted artisan x86 assembly code,A sales rep just tried to pitch me on ____________; I told them we already have ______________.
+The world's only fully-functional ROFLcopter,Who would have known that ___________ could destroy an entire datacenter?
+A proof that P=NP written in BASIC,"To secure our next round of funding, Management says we need ________________."
+An Exchange email loop,Our production backups are stored using _________________.
+A Volker-Craig terminal,We replaced our _________ with ______________
+A self-aware PHP script,"After _________________ came up, the retrospective really went downhill."
+A 500-megabyte UDP packet,"You know what our app needs? More ______________, less ____________."
+The last remaining Multics server on Earth,It figures - an article about our ________________ was posted just as we're pivoting to _______________.
+A Null-modem cable,"In the next planning session, we'll cover __________ and _______________."
+A turducken made entirely of bash scripts,Our competitive advantage is our __________________.
+Write-only code,"Every time someone brings up ______________, I throw up a little in my mouth."
+PagerDuty configured with a random number generator,Continuous ___________.
+Netscape Navigator 3.2 support,All that we had to do to halve our response times was implement ________________
+3 hour standups,Our entire app is geared towards providing ________________.
+A Piñata full of error messages,_________-ility
+Mutation of immutable data,We just achieved _____________s per second!
+Maven downloading the entire internet,http://i.imgur.com/546N4FR.jpg
+Continuous Disintegration,"_______, is that even HA?"
+IE6,My Linkedin Endorsements include __________________.
+Scrum Master,Users are _______.
+Magic Smoke,Robots are going to make ________ obsolete.
+done done,Accidental _________.
+Tech Debt Day,An error occurred: E_______
+Log Shipping,"According to the logs, ____________ was initially caused by ___________."
+uucp,We can just fix that with a little ______.
+4chan Party Van,"You can have _____, _____, or _____.  Pick two."
+Adderall,"A monad is just a _____ in the category of _____, what's the problem?"
+Tcl,"Functional programming - if you can't ______ it, ______ it."
+NoOps,"On a scale from 1 to 10, this is ___________!"
+An angry whale shitting containers,"We don't need configuration management, we have ________!"
+:(){ :|:&};:,"_______, now with _______ support."
+Too Big Data,RedHat has announced that RHEL 8 will ship with _______.
+Accidentally the entire data center,"""Hey, _______ is down. Can you fix it?"""
+freebasing caffeine,I grabbed _____ on my way out the door after our paychecks bounced and management stopped answering their phones.
+Fat fingered,Did you try ____________ yet?
+Half open TCP connections,I was 6 beers in when I got the pager alert that _______was down.
+Steve Balmer wielding a battleaxe,Notice: Building _____________ for ______________
+A 50k line Bash script that's achieved self awareness,I laughed when they said I'd be on call 24/7 but wouldn't receive a stipend for _____.
+Gigadevops,If it weren't for __________ we'd all be ___________.
+Enterprise Grade Bash scripts,"_______, _______ and just a few lines of Perl."
+Agile,NoSQL is superior to SQL because __________
+A pink sombrero and a fifth of tequila,Script kiddies got into _________ because _________.
+A simple 15 level Hiera hierarachy,______________is better than hadoop because ___________
+lolscale.,Disturbing ____ leaves ____ fucked
+CouchDB,Rub a little _____________ on it
+GeoCouchDB,"WAIT, YOU DELETED _______‽‽‽"
+High Availability,@______borat
+Map-Reduce,"It's not web scale, it's ___________"
+Web Scale?,The tech support hotline told me to ________________
+Erlang,Asynchronous REST API calls are the solution to ______________
+a non-ironic BSOD,Say concurrent threads again and I will ____________ you.
+ntpdate,"""Guys, seriously, if we just use ___________ it will solve all our problems with ____________!"""
+Systemd,Facebook changed their profiles today because ______.
+12 factor application,github.com/_____/_______
+"Fail early, fail often",Hello. My name is _______ and I am addicted to _______ .
+Regex,_________ dependency hell.
+A violation of the most basic engineering principles.,"That talk outline said it would be about ___________, but it ended up being more like ____________."
+The BOFH,I will replace you with a very small ______.
+A water buffalo,Jordan Sissel hates ______ so much that he created a new opensource project called _________ to work around it.
+a routing loop,________ isn't a job title
+a queue with no consumers,For the next project we are going to use _________ to solve _________ .
+Bitcoin mining,My editor of choice is __________.
+A firewall full of holes,_____ it; ship it.
+An uncontrollable deluge of emails,__________-Stack Developer
+I heard about it on hacker news,__________SQL
+Ycombinator,"That's not a hacker, that's my __________!"
+a jailbroken iPad,It has been __ days since the last ______
+"""Fuck it, we'll do it live!""",I've _____ things you people wouldn't ________
+Vagrant,The _________ on the server were deleted because _________ .
+Nokogiri Gem,"This week, Aphyr runs _____ through jepsen."
+Docker,The intern just ran ______ on the load balancer.
+"a ""MRW"" animated gif",I need you to do a _________ with _________ before _________ .
+$HOME/.gem,Lambdas are just a lame implementation of _____________.
+"a posting on Craigslist ""internet engineers"" jobs forum",C-x; C-__________
+ssh in a for loop,This users wants _________ because _________ .
+a cold cup of coffee,_________ should be deprecated in favour of _________ .
+Destroying your tools with your tools,_________ mismatch between ________ and ________
+UTF-9,I put _________ on the scripts to make it run faster.
+a dozen vendor t-shirts,"Developers do not get access to production machines, because of __________."
+unlimited data plan,Developers need access to production machines because __________.
+UTF-7,We run ______ in a cron job every 15 minutes.
+out-of-band access,The client says it needs more _________ .
+rm -rf /,We're a __________ as a Service company.
+kill -9,I could hire a __________ to do your job!
+a series of tiny shellscripts,"My next Velocity talk is called ""____ops"""
+Dogecoin,The RFO for the global outage was ____ compunded by _____
+Kernel panic,I was hired to maintain this 20 year old script that runs our critical _______ infrastructure.
+Hugops!,Amazon Elastic _________
+Lolcats,"I know we use __________, but I wrote this critical program in __________."
+Culture,I'll just have Ops spin up a couple of _______ environments.
+Percussive maintenance,I'm writing my next IRC bot with ____________.
+IE 7 Support,SIG____
+Hangops,I cannot wait until someone makes a __________ cluster out of these.
+Unix philosophy,C will finally be displaced by _________
+Trying to install MongoDB on AIX 3,__________.io
+A server rack full of crushed dreams,"We don't need to worry about _________, We're using MongoDB."
+Node.js,Why is ______ better than Hadoop?
+Silos,FC067: ________________
+Elastic Load Balancers,"Oh, the _____ is just a hack to get the ____ to run."
+RFC1178,How do I even __________ ?
+Full-stack developer,________ all the things.
+Andrew Clay Shaffer,ERROR: ______ NOT FOUND
+Jordan Sissel,"We don't need backups, we've got __________."
+A new printer.,Fixing your fathers computer with _________.
+A potato,it's always a ____________ DNS problem
+Office Space,_______________ with this one weird trick.
+Git Blame,"________ isn't new, we used to do it in the '70s on mainframes."
+Developers! Developers! Developers! Developers!,Puppet is better than Chef because ______ and __________
+Your account,How is ______ better than ________ ?
+Single stepping through the kernel,Learn ____ the hard way
+De-linting source code,vagrant up ________
+Significant whitespace,bollocks up _______
+Smart quotes,You can fix  __________ with _____________ .
+A series of tubes,We took the plunge and rewrote _______ in Go
+secret sauce,Implementing _____________ should take only 2 lines of code.
+# What is this used for?,I accidentally the entire ___________ is this dangerous?
+,Good enough for ________ work
+"# FIXME: For now, just don't validate","Yeah, but can it run _________?"
+ASAP,Security through _____.
+Nagios,_________? You can safely ignore that. Usually.
+The Goddamn CDN,____ isn't cool. You know what's cool? _____
+Authentication and authorization,"I made a new editor, better than vim and emacs. It's called _______________"
+A cluster of applications on a cluster of servers,640k should be enough for __________.
+Beating the server into submission with your bare hands.,____________ worked in dev.
+Read-only Fridays,You can't fix _________
+r/sysadmin,How hard could it be to port Linux to ___________.
+Distributed Computing,I just finished working on my rocket powered _______.
+Sprint Planning,Richard Stallman will kill you with his teeth for __________.
+Merge Conflicts,DB tuning wiith _______.
+"# we *LIE* about what happened and return a ""success""",Can anyone help me get _______ running on Cisco IOS?
+Unplugging a server and waiting to see who complains,Real _________ don't use ______________
+THE MAGMA PEOPLE ARE WAITING FOR OUR MISTAKES.,________ on XEN
+a tiny ounce of knowledge,Please bring back __________. You broke my workflow.
+Too big to fail,I cut-and-pasted this StackOverflow code for my ________.
+NoQA Movement,I'm just finishing up my manifesto on ______________.
+A few instances,r/_____.
+operations hipster,We can discuss ______ at the stand-up meeting.
+Cowboy developer,A Beowulf cluster of ____________.
+cubism farm,We're demoing _____ for ______ at SXSW.
+HipChat,I aliased ________ to git _________.
+An IRC bot written entirely in sed,"10 PRINT ""____________""; GOTO 10"
+(╯°□°）╯︵ ┻━┻,alt.binaries._________
+works for me,It is completely dark. You are likely to be eaten by a ____________.
+a torrent of Torrenters torrenting,Conway's Game of _______.
+COBOL,Next year I'll start learning ________________
+in b4 FIRST,s/______/______/g
+Donald Knuth,________ is the newest gTLD
+Rebooting All The Things,Works on my ______.
+Running Openstack in Production,One does not simply _____________
+the Berkshelf way,"Sorry, you'll need to open a ticket before we can __________."
+DNS,ln -s ______ _______
+SIGHUP,_______
+Animated GIF,__________ is dead.
+Heartbleed,It compiles __________ to JavaScript.
+PC LOAD LETTER,____________. What the fuck does that mean?
+Automate,________-to-butt plugin
+Delightful,Make it _______________.
+Cache,______coin.
+Proxy,_______ computing
+an online book seller,grep _____ | mail ______
+Dust Bunnies,______ just got pwned.
+Pete Cheslock,"It's like __________, but with __________ and list comprehensions."
+Networking,Software Defined ____________.
+A sad log with a mustache,"I don't have any UNIX Beards in stock, but we do have  _________"
+Blue Screen Of Death,"Amazon does _______, why can't we?"
+iso 8601,_________ nagios
+Daniel J. Bernstein,I can't believe you're still using __________.
+Linus Torvalds,/dev/______: Device is busy
+Broadcom chipset,"________. You don't exist, go away!"
+Moe,I tried __________. The doctors say I'll never walk again.
+That XKCD comic about sysadmins,git --____________
+iso 8859,The _______ Public License.
+RFC 1149,_____ begins with _____.
+A pimply faced youth with nothing to lose,Couldn't we use _____?
+Theo de Raadt yelling at newbs,_________ would be so much better if we rewrote it in Clojure.
+Hate driven development,So I just found _______ and __________ running in a screen session.
+Lotus123,Why is root running ________ under tmux?
+/dev/null as a service,"Instead of installing _______, what if we just used __________?"
+Hackathons,I need a webinar like I need _________________.
+GNU/Linux,"Fuck it, time to break out the emergency __________."
+ZeroVM,"On the plus side, we finally got rid of ________."
+Stringing cloudtobutt.pl into postfix.,________ thought leader.
+ZeroMQ over SSH,Fuck it: _____ looks good to me.
+SQLite,It looks like you're trying to __________. Can I help?
+LevelDB,bash: command not found: ___________
+Leap second bug,ETOOMUCH_________
+The fucking JVM,How did ________ ever work?
+continuous deployment,"Whoops, I thought that method was supposed to ________ the __________."
+Tor,I thought you said __________ was secure?
+bash,git: You are in detached ________ state.
+numactl,Why don't we just fork __________ ?
+zsh,Network dropped connection because of ___________.
+Standing around outside on the streets of SOMA with an overheating laptop drunk while fixing your god damn Saturday night deployment.,We turned off ________ and everything magically got better.
+Vegan friendly init scripts.,I found a Samba share full of ___________
+Committing from the bar.,_________. What could go wrong?
+Servers that follow daylight savings time.,Install ______
+Rolling Grubhub into the build failed script.,I installed ________ by accident.
+command line options,Read-eval-__________-loop.
+Temporary hotfixes,We should try it with an actual _________.
+jsLinux,Is __________ something we need to optimize for?
+SIGKILL,Hack __________ into redis.
+Your private browsing history,_______ Considered Harmful
+Wearing protection during peer programing.,never ________ before a demonstration
+top,The ___________ is used when the CPU is on fire
+Arguing over the internet.,modperl can be used to implement _______________
+year 2038,__________ runs Ruby as root
+dd,Larry Wall trained as missonary then _________________
+pdisk,Listening to the fans in the server farm leads to _________________
+rsync,_________ and _____________ are rumoured to be working on a python module for a helicam
+CFLAGS,A lot of disk space is needed for __________
+cowsay,automagical ___________
+profanity in the git log,Whoever made the unscheduled change to production on Friday will be forced to use _____.
+Gentoo,Install _____
+The CEO,Never question the ____
+Ping Pong,I can't wait until we no longer use _____
+Dennis Ritchie,I bet if we switch to ______ it will just work
+PAM Happy Hour,_____ has just discovered _____.  We're doomed.
+Complex systems usually operate in failure mode.,A neckbeard made of ______________.
+FAT32,"False alarm, it was just __________ running ____________."
+winsock,_____ running on a rack of _____.
+fork() on Windows,"No, _____ being hopelessly broken is NOT an emergency."
+runlists,Our new startup is the _____ for ______.
+sudo,_____ make me a sandwich
+"echo shell_exec(""sudo ./smbkill "".escapeshellcmd($_GET['kill'])."" 2>&1"");",_____ over IP
+kill -9 -1,
+curl 4chan | sudo sh,"I AM working, I'm waiting for the _____ run to finish."
+cassandra,
+HTML9 Responsive Boilerstrap JS,The first rule of _____ is: You do not talk about _____.
+Neckbeards,Google Analytics says 100% of my website visitors are _________
+A Certified SCRUM Master,_______will never get job in Microsoft
+Bus error,
+git reset --hard origin/master,We can _____ just like Netflix
+Forcing push to master,_____ is how I resolve all merge conflicts.
+Paxos,Why does someone keep re-implementing system utilities in _____?
+LogFiles\W3SVC1,Remember when you told me to tell you when you were acting ______ and ______? ---you're doing it now. 
+A German installation of Windows NT4,Our only hope at recovering the data is _____________
+curl | sh -c,_____: the gift that keeps on giving.
+OpenLDAP,________ has been killed with fire.  My work is done here.
+Spot Instances,Problem exists between Keyboard and _____
+Those ksh scripts,100% government funded _____!
+/cgi-bin/php5,The _____ certification program.
+A $60 QNAP and some positive thinking,_____? I'd hit that.
+raspberryPI,_____ makes robots moves
+Windows ME,I just finished writing an API for _____.
+@echo off,_____ is a batch command to shut the fuck up
+Active Directory,_____.  Failed to cache catalog.
+conflict minerals,Everytime you allocate you have to _______ when you're done
+continuous incineration,"Sorry, I'm all out of _____-fu."
+The gentle sound of weeping drifting from the server room,90% of everything is __________.
+eventual consistency,"Given enough _____, all bugs are _____."
+Microsoft® Azure,_________ never use on git
+Pinging the broadcast address,The first 90% of development is _____. The second 90% is _____.
+That moment when you realize CTRL-Z cannot save you,"When you logged in there, did you see a _______ that said ________"
+127.0.0.1,Purely numeric hostname and not a _______ -----rejecting!
+Ethernet,I'm pretty sure ________ isn't thread safe
+IPv6,We don't have to worry about CAP Theorem because of _____.
+Re-writing deployment scripts at 2 AM,"I don't always test my code, but when I do I do it in _____."
+Piping /var/log/messages to Twitter,"Those who don't understand _____ are condemned to reinvent it, poorly"
+Bare metal,"Of course culture is important to us, that's why we have _____."
+A pseudorandom number generator,The NSA is really interested in our latest project: _____.
+An outage window,"Just change the ________, it'll be fine. "
+Sentinel System Driver,"Yeah, you need to modprobe ________ to get it to recognize the ________"
+fpm,"Oh, we're devops! We have ______ in the office, but only the DBA can touch it."
+catastrophic cancellation,We're spending 20% of this sprint doing ________.
+termcap,_________ found a new OpenSSL vulernability people are calling _______.
+f00d,Management has changed all our job titles to _________.
+one giant SPOF,while true; do ____; done
+Richard Stallman's Neckbeard,The consultant we hired is certain that _____________ will drastically increase the performance of ___________
+phpMyAdmin,Could you just push this update for _________?  It should be a no-op.
+Righteous Anger,"If we're all going to get fired, let's get fired for __________."
+Crowdsourced Architecture,"We can't pay you, but we can offer _____ in compensation."
+/etc/hosts,A soiled napkin with the contents of ______ scribbled on it
+CEOs with root access,Who thought that _______ was a good idea?
+Automagic Metaprogramming,It's not the recommended configuration to use __________ with ____________ but it's in production right now.
+Re-implementing TCP over UDP,We wrote our own build tool based on _____
+Rewriting bash scripts as CMD batch jobs,I've received a Microsoft MVP Award for _____
+#define BEGIN  {,We rewrote _____________ in _____________
+Microsoft Access over a WAN,The ticket to install _____?  I deletegated it.
+git submodules,
+Haskell,Artisanally crafted ___.
+Functional Reactive,"The backups are fine, but the restore process is ____________"
+Paxos,
+memegen,The ___ that ops provides developers.
+Flynn,
+eventual persistence,Move ___ and break things.
+Jenkins,_______: ci or not ci?
+Bingo Balls,I opened the server cabinet and it was full of _____.
+Mechanically Recovered Turkey,Crossing _____ could lead to total protonic reversal.
+ChatOps,
+Scala,
+WONTFIX,I______your stupid issue!
+Trello board,Nine circles of ___ hell.
+Big ball of mud,
+Friday afternoon deployment,I asked the contractor for _____ and they delivered _____.
+YoloDB,
+Piping random scripts from the internet into bash,
+(╯°□°）╯︵ ┻━┻,
+post-mortems,
+Github selfies,
+Production deployments that depend on GitHub,
+RFC 2324,
+Your code featured on The Daily WTF.,
+optimistic transactions,
+Webscale,"I'd like _____, _____, and a pony."
+Cats,
+Ponies,Only the Enterprise Edition(tm) has _____.
+Your Mum,
+Using Brain Fuck in production,
+Picking the best color to paint your bike shed,
+Server cages,The trouble with kids these days is ____________
+Copy-on-write,
+deduplication,
+LART,
+BOFH,
+Program Management,
+Product Managers,
+The Ballmer Peak,_____ for the win!
+0xDEADBEEF,______ is the new __________
+A coked-up tech recruiter,
+A contractor that tells you it was a real learning experience,
+RTFM,
+A 1996 Java applet,"With _____, you write once, run nowhere."
+A virtual machine running a virtual machine until it brings on the Singularity,_____ discontinued support for the Linux version.
+Ops doing dev = technical debt,"A manager told me I couldn't remove our dependency on _____, but I got around it with _____."
+"#And right here, we'd like a miracle.",_____ implements every single standard for _____.  Poorly.
+Sparkly Devops Princess,
+Patrick Debois,
+git merge --force,
+A series of tubes,Just think of the Internet as _____.
+:(){:|:&};:,
+A literal cluster fuck,Would you like _____ with that?
+The library that imports all other libraries,_____? We've got that.
+The tech lead's shitty pet project,It took over 40 hours to document _____. 
+An entirely commented out file,
+A constructor for RandomThing,npm install ________.
+Circular imports,Circular imports import _____. 
+A pull request with a winking smiley ;),
+Syntactic sugar coma,
+Former employees who still have admin access to live production servers,
+The ib_logfiles,_____ is why the jDBA thought it might be time to go to #mysql on freenode
+The mysql client,_____ is the only reason the jDBA survived typing rm -rf /
+Paul Graham,
+The much neglected IPv5,
+cron jobs that edit cron jobs,
+snail scale,
+Testing positive for mongonucleosis,End-to-end _____.
+PEBKAC,
+ReiserFS,
+/dev/null,It's like _____ on _____.
+little Bobby Tables,________ will help you remember to sanitze your database inputs.
+solar flares,
+global warming,
+Short Stroking,
+Reticulating Splines,
+RAID 3 SSD cluster,
+Re-implementing TCP over TCP,
+Mixed endianness,abcdef
+OAuth,
+traceroute,
+rockstar,
+packet loss,
+smokeping,
+losing the root password,
+Works on my machine!,
+malloc,
+buffer overflow,
+StackOverflow is offline?!,
+server logs,
+Penetration test,
+Deploying on a Friday afternoon,
+Quipu,
+too many authorization failures,
+two single quotes,_____ took EBS down again today.
+kremvax,
+the unix epoch,
+0 day exploits,
+tribal knowledge,
+puppet,
+RHEL4,I ssh'd into a server running _____ and promptly noped the fuck out of there.
+DevOps Reactions,
+syntax error,
+killall -9,"_____, the final solution."
+pre caffeine typos,
+banana pi,
+RAID 0,We're running _____ in production?!
+PIP,_____ has root access.
+PyPy,We don't have enough package managers said _____
+Synergy,_____ is more reliable than ______
+dev,
+java,_____ ate all my memory
+geometric distances,
+Indian Ocean,
+,We accidently the whole _____..
+rm -rf /,It's easy! Just run _____
+hunter2,I assure you _____ is secure!
+GCHQ,
+NSA FOIA request,Our backup policy is _____
+wat,
+kanban,
+Halt and Catch Fire,

@@ -5,7 +5,7 @@ DevOps Against Humanity (an expansion for [Cards Against Humanity](http://www.ca
 
 Because people on twitter are hilarious.
 
-### The google doc
+### Card lists
 
 The google doc is here:
 
@@ -16,6 +16,8 @@ Add your awesome ideas to the shared doc. Then copy it, edit it to your liking, 
 I wouldn't be sad if someone wanted to merge in my cleanup/adds/changes to the shared doc, although I don't have time right now. This is the actual doc I used for generating the PDFs in this repo:
 
 [Doc used for first printing](https://docs.google.com/spreadsheets/d/1LEf6qE3FMKRvSWRrKb3m5gcVHmw7aQctbegrWbxEsfA/edit?usp=sharing)
+
+I've added CSVs to this repo preserving the state of the doc used for first printing and an export of the current state of the shared doc (which will be updated intermittently). I've no desire to approve all additions to the shared doc.
 
 ### Generating the PDFs
 

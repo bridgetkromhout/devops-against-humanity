@@ -1,0 +1,128 @@
+White Cards (noun or gerund - single word or phrase),Black Cards (direct question or fill-in-the-blank statement with one blank or two)
+/var/log symlinked to /dev/null,...and then there was the time I found _____ on the root partition.
+"10,000 Nagios alerts per second",140 characters is just enough to explain _____.
+3-hour standups,_____ - the idiot's guide to _____ and _____.
+A 2400 baud modem,_____ all the way down.
+"A 3.5"" floppy disk",_____ as a service.
+A 500-megabyte UDP packet,_____ dooms any project to epic failure.
+A 75-tier architecture,_____ Driven Development.
+A Cisco router with a flaky chip,"_____ is a feature, not a bug."
+A CORBA service written in Ada which communicates using JSONx,_____ is for closers.
+A cron job that reboots the server every 5 minutes,_____ is the new _____.
+A custom kernel with Frontpage Extensions installed,_____ is weaponized privilege.
+A customized .fvwmrc,_____ is webscale.
+A former MENSA member,_____ or it didn't happen.
+A Github Outage,_____ with one weird trick.
+A global write lock,"_____, as one does."
+A home-rolled systemd replacement,"_____, for some values of _____."
+A JAR full of spaghetti,"_____, is that even HA?"
+A mobile web 2.0 RIA,"_____, the only thing worse than recruiting spam."
+A Null-modem cable,A sales rep just tried to pitch me on _____; I told them we already have _____.
+A Piñata full of error messages,Accidental _____.
+A proof that P=NP written in BASIC,"After _____ came up, the retrospective really went downhill."
+A Scrum Master,All that we had to do to halve our response times was implement _____.
+A self-aware PHP script,Amazon built a datacenter on the moon to lessen the risk of _____ causing problems.
+A shared root password,Apple just patented _____.
+A Snowflake server,Ask Me Anything about _____.
+A squirrel with a taste for fiber,But Google is using _____ so we should too!
+A turducken made entirely of bash scripts,Called on account of _____.
+A Volker-Craig terminal,Chef convergence failed due to _____.
+A WSDL from 2003,Continuous _____.
+Agony-Driven Development,DevOps: Now with 100% more _____!
+An angry badger with an electromagnet on its back,Did you know that we have _____ on pager rotation?
+"An army of chaos monkeys, all carrying flamethrowers",Disrupting the established players in _____ via _____.
+An epic caffeine bender,Doge _____.
+An Exchange email loop,Employees must _____ before returning to work.
+An untested restore process,Enterprise _____ in the cloud.
+Apache 1.2 running as root,Enterprise-ready _____.
+Apache Zookeeper on a 286,Epic yak-shave caused by _____.
+Being acquired by Oracle,Etsy says we should _____ everything.
+Brogrammers,"Every time someone brings up _____, I throw up a little in my mouth."
+Bullshit.io,Facebook has acquired _____ for $10b and _____.
+Business logic in PowerPoint slides,Free as in _____.
+CAP Theorem,Glitter-bombed with _____.
+Catastrophic Failure as a Service,"Hi, I'm Troy McClure. You may remember me from such commit messages as _____ and _____."
+Cloud 2.0,How even is _____ formed?
+Cloud-based business strategy,I came up with an awesome regex that converts _____ to _____.
+Command-line magic,I can haz _____.
+Continuous Disintegration,I don't own any jeans skinny enough to wear to a _____ meetup.
+Continuous integration,I ended up having to buy a replacement _____ on eBay.
+Copypasta,I find Java to be way too much like _____.
+COTS Shareware,I got paged at 3am because of _____.
+Degraded performance in some AWS availability zones,I saw the best minds of my generation _____.
+Developers,I think maybe I'll leave _____ off my resumé.
+DevOps,"If _____ is the answer, you are asking the wrong question."
+DevOps Days,"If we make this deadline, Management has promised us _____."
+Digital Ocean,"If you're _____, you're gonna have a bad time."
+done done,"In order to improve security, we're upgrading to _____."
+Eating sushi with Andrew Clay Shafer,"In the next planning session, we'll cover _____ and _____."
+Edward Snowden,It figures - an article about our _____ was posted just as we're pivoting to _____.
+EFnet in the 90s,"It turns out that the button labeled ""Don't Push"" actually does _____."
+Epoch time in milliseconds,It worked on my _____.
+FileMaker Instant Web Publishing,It's dangerous to go alone; take _____.
+fuckedcompany.com,It's like trying to herd _____.
+Functional programming,"Last week, I created a Chef recipe for _____; this week, it's an entire cookbook for _____. Automation FTW!"
+Git,Main benefits of automation: _____ and _____.
+Golang,Management just told me I need to get certified in _____.
+Growth hacking,Management said it's OK to deploy _____ at 5pm on Friday
+Hacker News,"Marketing says we're leaders in the _____ space, but I think it's more accurate to say we specialize in _____."
+Hand-crafted artisanal x86 assembly code,My eyes started bleeding when I opened the editor and saw _____.
+Heartbleed,My Linkedin Endorsements include _____.
+Hypervisors running hypervisors running hypervisors,My next blog post will be about how we used _____ to create _____.
+IE6,My two most indispensable tools are _____ and _____.
+Larry Ellison,No route to host: _____.
+Leaky abstractions,Nobody ever got fired for buying _____.
+LinkedIn,"Our app is like _____, but for _____."
+Magic Smoke,Our competitive advantage is our _____.
+Maven downloading the entire internet,Our entire app is geared towards providing _____.
+Meritocracy,Our greatest achievement in the last year is _____.
+MongoDB,Our production backups are stored using _____.
+More buzzwords than you can shake a scrum at,Pour one out for _____.
+Mutation of immutable data,Put some _____ on it
+Netscape Navigator 3.2 support,Restoring from backups failed due to _____.
+Node.js,RIAA is suing me for downloading _____.
+NoOps,Robots are going to make _____ obsolete.
+NoSQL,Root cause of the outage? _____.
+NPM,Running Windows in production leads to _____.
+NullPointerException: null,Security? We've got that! We use _____.
+O'Reilly,"So, I was using Wireshark to check network traffic... Did you know we have _____ in production?"
+OpenSSL,Sweet! I just found a Puppet module for _____!
+Our Release Engineer,"The hardest problems in computer science are naming things, cache invalidation, and _____."
+PagerDuty configured with a random number generator,"The Internet is for cat memes and _____,"
+Pareto Inefficient Nash Equilibriums,The Internet of Things will be controlled by _____.
+Parsing HTML with regex,The most stable part of our infrastructure? _____
+Patent,The only thing necessary for evil to triumph is _____.
+Perl 6,The production datacenter burned down because of _____.
+Posting on Etsy's codeascraft blog,"The status console is green, but I can't access _____."
+Private keys in /var/www,The two pillars of our Continuous Deployment pipeline are _____ and _____.
+Python,"There was no good solution for _____, so we built our own."
+Python datetime module,This account has exceeded the maximum number of _____.
+Rebasing the entire fucking repo,This isn't going to be all unicorns and _____.
+RecruiterFail,Time to schedule the postmortem for _____ .
+Ruby,"To secure our next round of funding, Management says we need _____."
+Running out of IPv4 addresses,Uber is on surge pricing because of _____.
+Sadness as a Service,WARN: _____ has been deprecated.
+Shift-Ctrl-F12-\,We don't need _____ - we have _____ !
+Stack trace generator,We really need to open-source our _____.
+Sysadmins,We replaced our _____ with _____.
+Tech Recruiters,We run production _____ and _____.
+The Cult of Mac,"When I hooked the 3D printer up to the Internet, it accidentally created _____."
+The last remaining Multics server on Earth,"When I told Jez Humble about our _____, he actually cried."
+The next Y2K,When I was a kid we didn't have _____.
+The NSA,"When I write a book about my experiences, it'll be called ""_____, the good parts"""
+The Sales & Marketing department,Who would have known that _____ could destroy an entire datacenter?
+The Stanford of Canada,Will merge pull requests for _____.
+The world's only fully-functional ROFLcopter,Wrap it with the _____ duct tape.
+Thought leadership,xkcd.com just made a hilarious comic making fun of _____.
+Twitter,"You know what our app needs? More _____, less _____."
+Unicode errors,You should think of your servers like _____ and not like _____.
+Unknown source in your stack trace,Zero-day _____.
+uucp,
+VisualBasic DLLs,
+Waiting for console.aws.amazon.com...,
+Web scale,
+Windows XP,
+Women in tech,
+Write-only code,
+Yet another package manager,
+Zombie processes,
