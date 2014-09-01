@@ -30,7 +30,7 @@ Because I wanted to use a different custom logo on white cards vs black, I made 
 I went with the rectangular 2.5"x3.5" poker size cards because I want to be able to mix them in with the official cards.
 
 ### Chromecast
-These cards, as of 2014-09-01 have been ([imported into Cardcast](http://www.cardcastgame.com/browse/deck/HFU3S)) for play with a Chromecast. The deck code is `HFU3S`.
+These cards, as of 2014-09-01 have been [imported into Cardcast](http://www.cardcastgame.com/browse/deck/HFU3S) for play with a Chromecast. The deck code is `HFU3S`.
 
 ### Printing
 
