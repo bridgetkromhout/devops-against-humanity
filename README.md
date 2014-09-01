@@ -29,6 +29,9 @@ Because I wanted to use a different custom logo on white cards vs black, I made 
 
 I went with the rectangular 2.5"x3.5" poker size cards because I want to be able to mix them in with the official cards.
 
+### Chromecast
+These cards, as of 2014-09-01 have been ([imported into Cardcast](http://www.cardcastgame.com/browse/deck/HFU3S)) for play with a Chromecast. The deck code is `HFU3S`.
+
 ### Printing
 
 I put the PDFs on a USB stick and had them printed on 110lb cardstock at Kinko's. Any print shop should be able to do this. Cards Against Humanity ([in their official printing directions](http://www.cardsagainsthumanity.com/pdf/CAH_MainGame.pdf)) suggests going with at least 80lb cardstock. Cutting ~300 cards on the slicing machine took about 45min because I wanted them to look fairly consistent. I could only stack 4 sheets at a time; at 5, the cuts were no longer clean.
