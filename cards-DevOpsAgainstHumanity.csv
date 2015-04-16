@@ -62,7 +62,7 @@ COTS Shareware,Main benefits of automation: ____________________ and ___________
 2400 baud modem,Chef convergence failed due to _________________.
 A squirrel with a taste for fiber,...and then there was the time I found ___________ on the root partition.
 Zombie processes,We run production on _____________ and _________________.
-CAP Theorem,Management said it's OK to deploy _________________ at 5pm on Friday 
+CAP Theorem,Management said it's OK to deploy _________________ at 5pm on Friday
 Snowflake server,Did you know that we have ______________ on pager rotation?
 A Cisco router with a flaky chip,"""There was no good solution for _______________, so we built our own."""
 NullPointerException: null,Amazon built a datacenter on the moon to lessen the risk of _________________ causing problems.
@@ -333,7 +333,7 @@ Bus error,
 git reset --hard origin/master,We can _____ just like Netflix
 Forcing push to master,_____ is how I resolve all merge conflicts.
 Paxos,Why does someone keep re-implementing system utilities in _____?
-LogFiles\W3SVC1,Remember when you told me to tell you when you were acting ______ and ______? ---you're doing it now. 
+LogFiles\W3SVC1,Remember when you told me to tell you when you were acting ______ and ______? ---you're doing it now.
 A German installation of Windows NT4,Our only hope at recovering the data is _____________
 curl | sh -c,_____: the gift that keeps on giving.
 OpenLDAP,________ has been killed with fire.  My work is done here.
@@ -431,10 +431,10 @@ A series of tubes,Just think of the Internet as _____.
 :(){:|:&};:,
 A literal cluster fuck,Would you like _____ with that?
 The library that imports all other libraries,_____? We've got that.
-The tech lead's shitty pet project,It took over 40 hours to document _____. 
+The tech lead's shitty pet project,It took over 40 hours to document _____.
 An entirely commented out file,
 A constructor for RandomThing,npm install ________.
-Circular imports,Circular imports import _____. 
+Circular imports,Circular imports import _____.
 A pull request with a winking smiley ;),
 Syntactic sugar coma,
 Former employees who still have admin access to live production servers,
@@ -499,3 +499,34 @@ NSA FOIA request,Our backup policy is _____
 wat,
 kanban,
 Halt and Catch Fire,
+Custom Nagios scripts,"Why isn't my script working?"
+ITIL,"ITIL best practices suggest _____ is the next step"
+branded hoodies,"We would have gotten the funding, if only our slide deck included _____"
+angel investors,"Have you tried _____ and _____ ?"
+series B funding,"Why can't I login to the VPN?"
+A noose made out of cat 5 cable,"I left _____ in the server room."
+A kernel hacker's beard,"I stuck my hand in a sysadmin's beard and pulled out _____"
+The reaping of child processes,"Before exiting, the program kills _____"
+nginx,"Cookbooks containing _____ have been known to cause _____"
+the outsourced IT department,"Once we added _____ to the firewall rules, _____ worked perfectly"
+an NSFW MOTD file,"My pre-commit hook replaces tab characters with _____"
+ASCII art,"I was up all night debugging _____"
+bugzilla,"Error: insufficient _____"
+boto,"The Product Team handed me a spec, they want _____ in the next release of _____"
+malicious code,"The malware came from an infected ad on _____ .com"
+The return of the Y2K bug,"Killing child processes releases resources back to _____"
+A highly sophisticated regular expression,"That regular expression is designed to match _____ but not _____"
+A mint-in-box AOL trial CD,"The vendor solution didn't have log aggregation, but it did have _____"
+log aggregation,"Our custom log rotation scripts have the added feature of _____"
+The OWASP Top 10,"This year, Cross-Site Request Forgery (CSRF) was knocked out of the OWASP Top 10, and replaced by _____"
+Water-scrum-fall,"Nagios sucks, let's replace it with _____"
+Yet another attempt at re-writing Nagios,"My pull request was rejected because it contained _____"
+infinite loops,"My stacktrace revealed _____"
+bareword variables,"Chef encountered an error attempting to create _____"
+rubocop,"Since the 1950s, engineers have been striving toward a more effective means of generating _____"
+A project of Stuxnet-level complexity,"Our code was efficient, except for the module containing _____, which was slower than _____"
+The RFCs for streaming video codecs,"I need to re-munge the CSV, replacing the commas with _____"
+Terraform,"We strive for continuous deployment, continuous delivery, and continuous _____"
+AWK,"Data-driven decisions are to be replaced with _____"
+Greybeards,"The ruby gem is useless, it's a lesser implementation of _____"
+Database antipatterns,"Windows ME had a service pack that solved the problem of _____"
