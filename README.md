@@ -27,24 +27,28 @@ Either install https://github.com/bbcards/bbcards somewhere yourself, or run it 
 
 Because I wanted to use a different custom logo on white cards vs black, I made two PDFs. That turned out to be good since I needed to print the black cards in color for them to look good, while the white ones were fine in black & white. When I wanted only one, I just made sure the other side (black or white) was blank.
 
-I went with the rectangular 2.5"x3.5" poker size cards because I want to be able to mix them in with the official cards.
+I went with the rectangular 2.5"x3.5" poker-sized cards.
 
 ### Chromecast
-These cards, as of 2014-09-01 have been [imported into Cardcast](http://www.cardcastgame.com/browse/deck/HFU3S) for play with a Chromecast. The deck code is `HFU3S`.
+These cards as of 2014-09-01 have been [imported into Cardcast](http://www.cardcastgame.com/browse/deck/HFU3S) for play with a Chromecast. The deck code is `HFU3S`.
 
 ### Printing
 
-I put the PDFs on a USB stick and had them printed on 110lb cardstock at Kinko's. Any print shop should be able to do this. Cards Against Humanity ([in their official printing directions](http://www.cardsagainsthumanity.com/pdf/CAH_MainGame.pdf)) suggests going with at least 80lb cardstock. Cutting ~300 cards on the slicing machine took about 45min because I wanted them to look fairly consistent. I could only stack 4 sheets at a time; at 5, the cuts were no longer clean.
+I put the PDFs on a USB stick and had them printed on 110lb cardstock at Kinko's. Any print shop should be able to do this. Cards Against Humanity ([in their official printing directions](http://www.cardsagainsthumanity.com/pdf/CAH_MainGame.pdf)) suggests going with at least 80lb cardstock. The first time I printed this, cutting ~300 cards on the slicing machine took about 45min because I wanted them to look fairly consistent. I could only stack 4 sheets at a time; at 5, the cuts were no longer clean. The second printing, I had the print shop do the cutting. I recommend that over DIY cutting; much much less hassle and cleaner edges.
 
-Cards Against Humanity also suggests printing plain black on the back of the black cards. I made an all-black page in OpenOffice and exported it to PDF. 
+Cards Against Humanity also suggests printing plain black on the back of the black cards. I made an all-black page in OpenOffice and exported it to PDF. The print shop interleaved the "front" and "back" of the PDFs for me.
 
-### Pull requests accepted!
+### Accessibility Rules
 
-It would be cool if someone designed awesome card backs for black and white DAH cards. Obviously many more awesome cards could be created. Print all you want, because I am done operating that slicing machine at this point. :)
+The "house rule" that I use is that if someone doesn't understand a card, like a card, or think a card is funny, whether it's a black or a white card, they can discard it at any time with no penalty and replace it with a new card. This makes it easier for people from varying technical stacks and differing eras of implementation to all play together and have fun without worrying about having to prove they know some obscure trivia. (How many of us remember the SGI Vulcan death grip? Yeah.)
 
-From the CAH website: "Cards Against Humanity is available under a Creative Commons BY-NC-SA 2.0 license. That means you can use and remix the game for free, but you can’t sell it. Please do not steal our name or we will smash you."
+### Deck Curation (or lack thereof)
+
+I don't have time to produce curated editions. When printing, I do go through and remove anything I don't like, but I have almost no time to curate the open-to-the-public Google spreadsheet. So, no endorsement is implied, and you almost certainly want to take an editorial pass through it before you print it for your conference/event/workplace.
 
 ### Test it!
+
+If you'd like an idea of what the combinations of hilarity can look like, check out this script contributed by @nicocesar:
 
 <pre>
 #!/usr/bin/env python
@@ -62,3 +66,10 @@ rpl=lambda _:" %s " % random.choice(white)
 for _ in range(10):
     print(re.sub(blank,rpl,random.choice(black)).strip().replace(' .','.'))
 </pre>
+
+### Pull requests accepted!
+
+It would be cool if someone designed awesome card backs for black and white DAH cards. Obviously many more awesome cards could be created. Pull requests aren't necessary for adding cards; you can just edit the spreadsheet. If you want to add anything else to make this more fun, though, I'm happy to check it out.
+
+From the CAH website: "Cards Against Humanity is available under a Creative Commons BY-NC-SA 2.0 license. That means you can use and remix the game for free, but you can’t sell it. Please do not steal our name or we will smash you."
+
