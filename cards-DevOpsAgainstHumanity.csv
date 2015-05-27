@@ -90,7 +90,7 @@ Cloud-based business strategy,My next blog post will be about how we used _____ 
 Cloud 2.0,"So, I was using Wireshark to check network traffic... Did you know we have _____ in production?"
 The next Y2K,My eyes started bleeding when I opened the editor and saw _____.
 "An army of chaos monkeys, all carrying flamethrowers",I think maybe I'll leave _____ off my resumé.
-A CORBA service written in Ada which communicates using JSONx,We don't need _____ - we have _____ !
+A CORBA service written in Ada which communicates using JSONx,We don't need _____ - we have _____!
 A home-rolled systemd replacement,Management just told me I need to get certified in _____.
 A custom kernel with Frontpage Extensions installed,"Our app is like _____, but for _____."
 A mobile web 2.0 RIA,"Marketing says we're leaders in the _____ space, but I think it's more accurate to say we specialize in _____."
@@ -142,12 +142,12 @@ Enterprise Grade Bash scripts,"_____, _____ and just a few lines of Perl."
 Agile,NoSQL is superior to SQL because _____.
 A pink sombrero and a fifth of tequila,Script kiddies got into _____ because _____.
 A simple 15 level Hiera hierarachy,_____is better than hadoop because _____.
-lolscale.,Disturbing ____ leaves ____ fucked.
+lolscale,Disturbing _____ leaves _____ fucked.
 CouchDB,Rub a little _____ on it.
 GeoCouchDB,"WAIT, YOU DELETED _____‽‽‽"
 High Availability,@_____borat.
-Map-Reduce,"It's not web scale, it's ____._"
-Web Scale?,The tech support hotline told me to _____.
+Map-Reduce,"It's not web scale, it's _____."
+Web Scale,The tech support hotline told me to _____.
 Erlang,Asynchronous REST API calls are the solution to _____.
 a non-ironic BSOD,Say concurrent threads again and I will _____ you.
 ntpdate,"""Guys, seriously, if we just use _____ it will solve all our problems with _____!"""
@@ -183,32 +183,32 @@ UTF-7,We run _____ in a cron job every 15 minutes.
 out-of-band access,The client says it needs more _____.
 rm -rf /,We're a _____ as a Service company.
 kill -9,I could hire a _____ to do your job!
-a series of tiny shellscripts,"My next Velocity talk is called ""____ops""."
-Dogecoin,The RFO for the global outage was ____ compunded by _____.
+a series of tiny shellscripts,"My next Velocity talk is called ""_____ops""."
+Dogecoin,The RFO for the global outage was _____ compunded by _____.
 Kernel panic,I was hired to maintain this 20 year old script that runs our critical _____ infrastructure.
 Hugops!,Amazon Elastic _____.
 Lolcats,"I know we use _____, but I wrote this critical program in _____."
 Culture,I'll just have Ops spin up a couple of _____ environments.
 Percussive maintenance,I'm writing my next IRC bot with _____.
-IE 7 Support,SIG____.
+IE 7 Support,SIG_____.
 Hangops,I cannot wait until someone makes a _____ cluster out of these.
 Unix philosophy,C will finally be displaced by _____.
 Trying to install MongoDB on AIX 3,_____.io.
 A server rack full of crushed dreams,"We don't need to worry about _____, We're using MongoDB."
 Node.js,Why is _____ better than Hadoop?
 Silos,FC067: _____.
-Elastic Load Balancers,"Oh, the _____ is just a hack to get the ____ to run."
+Elastic Load Balancers,"Oh, the _____ is just a hack to get the _____ to run."
 RFC1178,How do I even _____ ?
 Full-stack developer,_____ all the things.
 Andrew Clay Shaffer,ERROR: _____ NOT FOUND.
 Jordan Sissel,"We don't need backups, we've got _____."
-A new printer.,Fixing your fathers computer with _____.
+A new printer,Fixing your fathers computer with _____.
 A potato,it's always a _____ DNS problem.
 Office Space,_____ with this one weird trick.
 Git Blame,"_____ isn't new, we used to do it in the '70s on mainframes."
 Developers! Developers! Developers! Developers!,Puppet is better than Chef because _____ and _____.
 Your account,How is _____ better than _____ ?
-Single stepping through the kernel,Learn ____ the hard way.
+Single stepping through the kernel,Learn _____ the hard way.
 De-linting source code,vagrant up _____.
 Significant whitespace,bollocks up _____.
 Smart quotes,You can fix _____ with _____.
@@ -219,7 +219,7 @@ secret sauce,Implementing _____ should take only 2 lines of code.
 "# FIXME: For now, just don't validate","Yeah, but can it run _____?"
 ASAP,Security through _____.
 Nagios,_____? You can safely ignore that. Usually.
-The Goddamn CDN,____ isn't cool. You know what's cool? _____
+The Goddamn CDN,_____ isn't cool. You know what's cool? _____
 Authentication and authorization,"I made a new editor, better than vim and emacs. It's called _____."
 A cluster of applications on a cluster of servers,640k should be enough for _____.
 Beating the server into submission with your bare hands.,_____ worked in dev.
@@ -230,7 +230,7 @@ Sprint Planning,Richard Stallman will kill you with his teeth for _____.
 Merge Conflicts,DB tuning wiith _____.
 "# we *LIE* about what happened and return a ""success""",Can anyone help me get _____ running on Cisco IOS?
 Unplugging a server and waiting to see who complains,Real _____ don't use _____.
-THE MAGMA PEOPLE ARE WAITING FOR OUR MISTAKES.,_____ on XEN.
+THE MAGMA PEOPLE ARE WAITING FOR OUR MISTAKES,_____ on XEN.
 a tiny ounce of knowledge,Please bring back _____. You broke my workflow.
 Too big to fail,I cut-and-pasted this StackOverflow code for my _____.
 NoQA Movement,I'm just finishing up my manifesto on _____.
@@ -262,7 +262,7 @@ an online book seller,$ grep _____ | mail _____
 Dust Bunnies,_____ just got pwned.
 Pete Cheslock,"It's like _____, but with _____ and list comprehensions."
 Networking,Software Defined _____.
-A sad log with a mustache,"I don't have any UNIX Beards in stock, but we do have  _____."
+A sad log with a mustache,"I don't have any UNIX Beards in stock, but we do have _____."
 Blue Screen Of Death,"Amazon does _____, why can't we?"
 iso 8601,_____ nagios.
 Daniel J. Bernstein,I can't believe you're still using _____.
@@ -312,7 +312,7 @@ CFLAGS,A lot of disk space is needed for _____.
 cowsay,automagical _____.
 profanity in the git log,Whoever made the unscheduled change to production on Friday will be forced to use _____.
 Gentoo,Install _____.
-The CEO,Never question the ____.
+The CEO,Never question the _____.
 Ping Pong,I can't wait until we no longer use _____.
 Dennis Ritchie,I bet if we switch to _____ it will just work.
 PAM Happy Hour,_____ has just discovered _____.  We're doomed.
@@ -328,7 +328,7 @@ curl 4chan | sudo sh,"I AM working, I'm waiting for the _____ run to finish."
 cassandra,
 HTML9 Responsive Boilerstrap JS,The first rule of _____ is: You do not talk about _____.
 Neckbeards,Google Analytics says 100% of my website visitors are _____.
-A Certified SCRUM Master,_____will never get job in Microsoft.
+A Certified SCRUM Master,_____ will never get job in Microsoft.
 Bus error,
 git reset --hard origin/master,We can _____ just like Netflix.
 Forcing push to master,_____ is how I resolve all merge conflicts.
@@ -336,7 +336,7 @@ Paxos,Why does someone keep re-implementing system utilities in _____?
 LogFiles\W3SVC1,Remember when you told me to tell you when you were acting _____ and _____? ---you're doing it now.
 A German installation of Windows NT4,Our only hope at recovering the data is _____.
 curl | sh -c,_____: the gift that keeps on giving.
-OpenLDAP,_____ has been killed with fire.  My work is done here.
+OpenLDAP,_____ has been killed with fire. My work is done here.
 Spot Instances,Problem exists between Keyboard and _____.
 Those ksh scripts,100% government funded _____!
 /cgi-bin/php5,The _____ certification program.
@@ -365,7 +365,7 @@ fpm,"Oh, we're devops! We have _____ in the office, but only the DBA can touch i
 catastrophic cancellation,We're spending 20% of this sprint doing _____.
 termcap,_____ found a new OpenSSL vulernability people are calling _____.
 f00d,Management has changed all our job titles to _____.
-one giant SPOF,$ while true; do ____; done;
+one giant SPOF,$ while true; do _____; done;
 "Richard Stallman's Neckbeard",The consultant we hired is certain that _____ will drastically increase the performance of _____.
 phpMyAdmin,Could you just push this update for _____?  It should be a no-op.
 Righteous Anger,"If we're all going to get fired, let's get fired for _____."
@@ -381,16 +381,16 @@ git submodules,
 Haskell,Artisanally crafted ___.
 Functional Reactive,"The backups are fine, but the restore process is _____."
 Paxos,
-memegen,The ___ that ops provides developers.
+memegen,The _____ that ops provides developers.
 Flynn,
-eventual persistence,Move ___ and break things.
-Jenkins,_____: ci or not ci?
+eventual persistence,Move _____ and break things.
+Jenkins, _____: ci or not ci?
 Bingo Balls,I opened the server cabinet and it was full of _____.
 Mechanically Recovered Turkey,Crossing _____ could lead to total protonic reversal.
 ChatOps,
 Scala,
-WONTFIX,I_____your stupid issue!
-Trello board,Nine circles of ___ hell.
+WONTFIX,I _____ your stupid issue!
+Trello board,Nine circles of _____ hell.
 Big ball of mud,
 Friday afternoon deployment,I asked the contractor for _____ and they delivered _____.
 YoloDB,
@@ -492,7 +492,7 @@ java,_____ ate all my memory.
 geometric distances,
 Indian Ocean,
 ,We accidently the whole _____.
-rm -rf /,It's easy! Just run _____
+rm -rf /,It's easy! Just run _____.
 hunter2,I assure you _____ is secure!
 GCHQ,
 NSA FOIA request,Our backup policy is _____.
