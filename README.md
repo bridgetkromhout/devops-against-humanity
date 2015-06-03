@@ -52,19 +52,24 @@ If you'd like an idea of what the combinations of hilarity can look like, check 
 
 <pre>
 #!/usr/bin/env python
-import urllib,csv,random,re
+import urllib.request, csv, random, re
+
 u='https://raw.githubusercontent.com/bridgetkromhout/devops-against-humanity/master/cards-DevOpsAgainstHumanity.csv'
 
 white=[]
 black=[]
-for r in csv.reader(urllib.urlopen(u)):
-    if r[0]: white.append(r[0])
-    if r[1]: black.append(r[1])
+lines = urllib.request.urlopen(u).read().decode('utf-8').split('\n')
+for line in lines:
+    r=line.split(",")
+    if len(r) == 2:
+        if r[0]: white.append(r[0])
+        if r[1]: black.append(r[1])
 
 blank=re.compile(r"( +)?(\b|[^_])_+(\b|[^_])( +)?")
 rpl=lambda _:" %s " % random.choice(white)
 for _ in range(10):
     print(re.sub(blank,rpl,random.choice(black)).strip().replace(' .','.'))
+
 </pre>
 
 ### Pull requests accepted!
