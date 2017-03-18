@@ -12,9 +12,9 @@ Forked from [Bridget Kromhout](https://github.com/bridgetkromhout/devops-against
 bundle install  # for the dependencies of bbcards
 wget https://raw.githubusercontent.com/bbcards/bbcards/master/bbcards.rb
 # Generate black cards
-./bbcards.rb --large -b black.txt -i devops-brain-black.png -o black.pdf
+./bbcards.rb --large --black cards-black.txt -i logo-devops-brain-black.png -o output-black.pdf
 # Generate white cards
-./bbcards.rb --large -b white.txt -i devops-brain-white.png -o white.pdf
+./bbcards.rb --large --white cards-white.txt -i logo-devops-brain-white.png -o output-white.pdf
 ```
 
 ## Pull requests accepted
