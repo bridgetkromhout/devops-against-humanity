@@ -811,3 +811,5 @@ The 8th Layer of the OSI Model
 The 9th Layer of the OSI Model
 :Q :q :w :q :q!
 Atlassian Products
+Kubernetes
+Moby
